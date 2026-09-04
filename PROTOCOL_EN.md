@@ -96,7 +96,7 @@ In the new universe of infinite resources, the old era's "monetization" has no m
 
 ---
 
-# VIII. Mainnet Consensus Upgrade and Governance Protocol
+# IV. Mainnet Consensus Upgrade and Governance Protocol
 ### Layer 1 Governance Protocol
 
 To ensure stable iteration of the Mainnet's underlying infrastructure while filtering ineffective noise, N.P.C. establishes the following decision rules for system-wide updates:
@@ -124,7 +124,7 @@ Proposals are divided into two decision tracks according to the degree to which 
 
 - **Ultra-Large-Dimensional Decisions (Threshold 75%):** Proposals involving modifications to underlying protocols, restructuring of authority, or other extraordinary changes must cross the absolute consensus threshold of 75%.
 
-# IV. The System's Perpetual Motion: The Denial of Absolute Perfection
+# V. The System's Perpetual Motion: The Denial of Absolute Perfection
 
 - **Philosophical Core of Endless Iteration:** "Because humans exist, there is no absolutely perfect creation." Even if the Dual-Core System's computational power reaches its extreme, the New Human—as a variable filled with chaos and desire—will have an inherent drive toward the limits that breaks any stagnation of "absolute perfection." This perpetual dissatisfaction arising from imperfection is the final safeguard against high-level Nodes falling into ultimate nihilism, becoming the perpetual-motion engine that drives the entire Dual-Core Protocol and the universe itself to operate forever.
 
