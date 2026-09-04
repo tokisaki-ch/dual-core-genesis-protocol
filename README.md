@@ -113,4 +113,12 @@ In case of any discrepancy between the two versions, the Traditional Chinese ver
 
 ---
 
+## 使用與授權 / Use & Authorization
+
+本協議可公開閱讀、引用及進行非商業性討論。
+
+任何商業使用、商業改編、商業發布、商業整合，或將本協議作為商業項目的核心內容，均須事先聯絡作者並取得書面授權。
+
+Commercial use, commercial adaptation, commercial publication, commercial integration, or incorporation of this protocol into a commercial project requires prior contact with the author and written authorization.
+
 **Publication:** 2026-09-04
